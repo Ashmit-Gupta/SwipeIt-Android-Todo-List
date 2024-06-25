@@ -1,4 +1,4 @@
-# Swip An Intuitive Android Todo List with Swipe Gestures
+# SwipeIt: An Intuitive Android Todo List with Swipe Gestures
 
 SwipeIt is an Android application designed to streamline your task management with intuitive swipe gestures. Swipe left to delete a task, or swipe right to edit it.
 
@@ -7,7 +7,7 @@ SwipeIt is an Android application designed to streamline your task management wi
 - **Add Tasks:** Easily add new tasks to your list.
 - **Swipe-to-Delete:** Swipe left on a task to remove it from the list with confirmation.
 - **Swipe-to-Edit:** Swipe right on a task to initiate editing.
-- **User Interface:** A Clean and user-friendly interface for seamless interaction.
+- **User Interface:** A clean and user-friendly interface for seamless interaction.
 
 ## Demo
 
