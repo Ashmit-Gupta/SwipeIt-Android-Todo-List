@@ -11,8 +11,7 @@ SwipeIt is an Android application designed to streamline your task management wi
 
 ## Demo
 
-![todo list 1080 video(1)](https://github.com/Ashmit-Gupta/SwipeIt-Android-Todo-List/assets/124504648/7ee95b4b-fe9f-4675-985e-71aa71814530)
-
+https://github.com/Ashmit-Gupta/SwipeIt-Android-Todo-List/assets/124504648/02d43fcd-2278-4604-b87e-b3a18da44746
 
 ## Acknowledgements
 
